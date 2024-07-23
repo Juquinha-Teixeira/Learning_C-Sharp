@@ -1,0 +1,14 @@
+/home/juca/Área de Trabalho/MyLearning/bin/Debug/net8.0/MyLearning
+/home/juca/Área de Trabalho/MyLearning/bin/Debug/net8.0/MyLearning.deps.json
+/home/juca/Área de Trabalho/MyLearning/bin/Debug/net8.0/MyLearning.runtimeconfig.json
+/home/juca/Área de Trabalho/MyLearning/bin/Debug/net8.0/MyLearning.dll
+/home/juca/Área de Trabalho/MyLearning/bin/Debug/net8.0/MyLearning.pdb
+/home/juca/Área de Trabalho/MyLearning/obj/Debug/net8.0/MyLearning.GeneratedMSBuildEditorConfig.editorconfig
+/home/juca/Área de Trabalho/MyLearning/obj/Debug/net8.0/MyLearning.AssemblyInfoInputs.cache
+/home/juca/Área de Trabalho/MyLearning/obj/Debug/net8.0/MyLearning.AssemblyInfo.cs
+/home/juca/Área de Trabalho/MyLearning/obj/Debug/net8.0/MyLearning.csproj.CoreCompileInputs.cache
+/home/juca/Área de Trabalho/MyLearning/obj/Debug/net8.0/MyLearning.dll
+/home/juca/Área de Trabalho/MyLearning/obj/Debug/net8.0/refint/MyLearning.dll
+/home/juca/Área de Trabalho/MyLearning/obj/Debug/net8.0/MyLearning.pdb
+/home/juca/Área de Trabalho/MyLearning/obj/Debug/net8.0/MyLearning.genruntimeconfig.cache
+/home/juca/Área de Trabalho/MyLearning/obj/Debug/net8.0/ref/MyLearning.dll
