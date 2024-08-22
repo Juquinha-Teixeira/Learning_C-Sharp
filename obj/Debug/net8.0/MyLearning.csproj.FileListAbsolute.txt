@@ -12,3 +12,4 @@
 /home/juca/Área de Trabalho/MyLearning/obj/Debug/net8.0/MyLearning.pdb
 /home/juca/Área de Trabalho/MyLearning/obj/Debug/net8.0/MyLearning.genruntimeconfig.cache
 /home/juca/Área de Trabalho/MyLearning/obj/Debug/net8.0/ref/MyLearning.dll
+/home/juca/Área de Trabalho/MyLearning/obj/Debug/net8.0/MyLearning.sourcelink.json
