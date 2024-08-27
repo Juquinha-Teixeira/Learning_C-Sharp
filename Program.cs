@@ -43,7 +43,8 @@ namespace MyLearning
             else
                 Console.WriteLine("O aluno não foi aprovado");*/
 
-            int[] numberOne = new int[11];
+            
+            /*int[] numberOne = new int[11];
             int[] numberTwo = new int[11];
 
             for(int i=0; i<11; i++)
@@ -54,7 +55,7 @@ namespace MyLearning
                 int multi = numberOne[i] * numberTwo[i];
 
                 Console.WriteLine(numberOne[i] + " x " + numberTwo[i] + " = " + multi);
-            }
+            }*/
         }
     }
 }
