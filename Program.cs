@@ -30,7 +30,7 @@ namespace MyLearning
             for(int i = 0; i < names.Length; i++)
                 Console.Write(names[i] + " ");*/
 
-            int nota1 = 10;
+            /*int nota1 = 10;
             int nota2 = 2;
             int nota3 = 5;
 
@@ -41,8 +41,20 @@ namespace MyLearning
             if(media >= 6)
                 Console.WriteLine("O aluno foi aprovado");
             else
-                Console.WriteLine("O aluno não foi aprovado");
+                Console.WriteLine("O aluno não foi aprovado");*/
 
+            int[] numberOne = new int[11];
+            int[] numberTwo = new int[11];
+
+            for(int i=0; i<11; i++)
+            {
+                numberOne[i] = i;
+                numberTwo[i] = i;
+
+                int multi = numberOne[i] * numberTwo[i];
+
+                Console.WriteLine(numberOne[i] + " x " + numberTwo[i] + " = " + multi);
+            }
         }
     }
 }
